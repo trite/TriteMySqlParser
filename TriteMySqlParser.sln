@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriteMySqlParser", "TriteMySqlParser\TriteMySqlParser.csproj", "{D38175BC-2BE2-49F7-BECF-3385520A30FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinkeringConsole", "TinkeringConsole\TinkeringConsole.csproj", "{D55DC70A-2D2F-4303-A296-C30958AF8CF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriteMySqlParser.Tests", "TriteMySqlParser.Tests\TriteMySqlParser.Tests.csproj", "{A1C339B2-8CCE-409D-9F4E-8C36CFC9BBA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpracheTutorialsAndPractice", "SpracheTutorialsAndPractice\SpracheTutorialsAndPractice.csproj", "{5ED5D4A6-0B09-4CDB-8590-A54D1B684CA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpracheTutorialsAndPractice.Tests", "SpracheTutorialsAndPractice.Tests\SpracheTutorialsAndPractice.Tests.csproj", "{66C4FB9B-11B6-494A-80CB-454B2166A02B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFrameTinkering", "DataFrameTinkering\DataFrameTinkering.csproj", "{F32ED6C0-5EA8-4F87-BA48-436CCF8DDA15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38175BC-2BE2-49F7-BECF-3385520A30FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38175BC-2BE2-49F7-BECF-3385520A30FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38175BC-2BE2-49F7-BECF-3385520A30FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38175BC-2BE2-49F7-BECF-3385520A30FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55DC70A-2D2F-4303-A296-C30958AF8CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55DC70A-2D2F-4303-A296-C30958AF8CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55DC70A-2D2F-4303-A296-C30958AF8CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55DC70A-2D2F-4303-A296-C30958AF8CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C339B2-8CCE-409D-9F4E-8C36CFC9BBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C339B2-8CCE-409D-9F4E-8C36CFC9BBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C339B2-8CCE-409D-9F4E-8C36CFC9BBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C339B2-8CCE-409D-9F4E-8C36CFC9BBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED5D4A6-0B09-4CDB-8590-A54D1B684CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED5D4A6-0B09-4CDB-8590-A54D1B684CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED5D4A6-0B09-4CDB-8590-A54D1B684CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED5D4A6-0B09-4CDB-8590-A54D1B684CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C4FB9B-11B6-494A-80CB-454B2166A02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C4FB9B-11B6-494A-80CB-454B2166A02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C4FB9B-11B6-494A-80CB-454B2166A02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C4FB9B-11B6-494A-80CB-454B2166A02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32ED6C0-5EA8-4F87-BA48-436CCF8DDA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32ED6C0-5EA8-4F87-BA48-436CCF8DDA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32ED6C0-5EA8-4F87-BA48-436CCF8DDA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32ED6C0-5EA8-4F87-BA48-436CCF8DDA15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9008F4-196F-4366-857B-6C7026BB1F42}
+	EndGlobalSection
+EndGlobal
